@@ -34,7 +34,7 @@ int main () {
 		}
 	} 
 		cout <<endl;
-		cout <<"You still want to use dref's calculator? (Y/N)?"<<endl;
+		cout <<endl<<"You still want to use dref's calculator? (Y/N)?"<<endl;
 		cin >> answer;
 	}while (answer=='Y'||answer=='y');
 		cout <<"Thank you for using my calculator :)";
